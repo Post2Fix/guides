@@ -1,3 +1,5 @@
+# Installing Kind
+
 Kind is an easy way to get up and running with K8s. This guide creates a cluster using Docker containers as nodes, which is fast to set up and integrates smoothly for developers with Docker knoweledge. 
 Kind is widely used for testing Kubernetes itself, making it a good choice for learning and experimentation purposes.
 
